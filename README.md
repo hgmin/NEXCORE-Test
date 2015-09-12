@@ -1,3 +1,2 @@
-# Test                    //hgmin
-# Test - 2015-09-12 07:43 //hgmin777
-# Test - 2015-09-12 08:02 //hgmin
+## Test용입니다.
+### Pull Request 마구 날려주세요. ^^;
